@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">MPrint</string>
+  <string name="app_name">MPrint</string>
+
+  <string name="action_settings">Settings</string>
+  <string name="action_find_location">Find</string>
+
+  <string name="nav_home">Home</string>
+  <string name="nav_about_us">About</string>
+  <string name="nav_privacy_policy">Privacy Policy</string>
+  <string name="nav_settings">Settings</string>
 </resources>
